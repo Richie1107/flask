@@ -1,0 +1,80 @@
+body,html{
+
+	margin:0;
+	height:100%;
+	width:100%;
+
+}
+
+
+#banner{
+	height:60px;
+	width:100%;
+}
+
+#menu{
+	height:40px;
+	width:100%;
+	background-color: #044996;
+}
+
+#footer{
+	clear: both;
+	height:30px;
+	width: 100%;
+	background-color: #000;
+	color:#fff;
+	text-align: center;
+}
+
+#content{
+	min-height: 400px;
+	width: 100%;
+}
+
+#menu ul{
+	margin-left:15%;
+	line-height: 40px;
+}
+
+
+#menu li{
+	list-style: none;
+	float:left;
+	padding-right: 2em;
+	padding-left: 2em;
+}
+
+#menu a{
+	color:#fff;
+	text-decoration: none;  /*不要有底線*/
+	font-size: 18px;
+	font-weight: bold;
+
+}
+
+#stockArea{
+
+	width:70%;
+	margin-left:15%;
+
+}
+.stocktable{
+
+	width: 100%;
+	border:1px solid #eeeeee;
+	border-spacing: 0px;/*欄位與欄位之間不要有空格*/
+}
+th{
+
+	background: #000;
+	color: #fff;
+	padding: 16px 0;
+
+}
+tr{
+
+	line-height: 40px;
+	
+}
+

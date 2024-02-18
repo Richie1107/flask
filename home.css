@@ -1,0 +1,45 @@
+#mainleft,#mainright{
+	float:left;
+	width:25%;
+	min-height:400px;
+}
+
+#main{
+	float:left;
+	width:50%;
+	min-height: 400px
+}
+
+.newslist{
+	float:left;
+	width: 80%;
+	height: 450px;
+	margin: 1em;
+}
+
+.newslist img{
+	width: 100%;
+	border-radius: 5%;
+}
+
+.newslist p{
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.tvbsnewslist{
+	float:left;
+	width: 45%;
+	height: 450px;
+	margin: 1em;
+}
+
+.tvbsnewslist img{
+	width: 100%;
+	border-radius: 5%;
+}
+
+.tvbsnewslist p{
+	font-size: 18px;
+	font-weight: bold;
+}
