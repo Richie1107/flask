@@ -1,0 +1,6 @@
+create database stock default character set utf8 collate utf8_general_ci;
+
+
+pip still mysqlclient
+pip install twstock
+pip install mplfinance
